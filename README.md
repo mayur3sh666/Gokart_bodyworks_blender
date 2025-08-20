@@ -3,4 +3,5 @@ In this repo,I made gokart bodyworks in blender as a part of starkers motorsport
 Our team https://www.instagram.com/starkersmotorsports?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw== Got All over India rank 5
 
 Check blend file for the model of the gokart
+https://drive.google.com/file/d/1xCWI0TgSCX4N9BlBuYXD2Sdb3Tb5ZUj9/view?usp=drive_link
 
